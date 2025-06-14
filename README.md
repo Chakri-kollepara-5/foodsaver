@@ -88,28 +88,7 @@
 - Node.js (version 18 or higher)
 - npm or yarn package manager
 
-### Installation
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/foodsaver-platform.git
-   cd foodsaver-platform
-   ```
-
-2. **Install dependencies**
-   ```bash
-   npm install
-   ```
-
-3. **Start the development server**
-   ```bash
-   npm run dev
-   ```
-
-4. **Open your browser**
-   Navigate to `http://localhost:5173` to view the application
-
-### Demo Accounts
 
 The platform includes pre-configured demo accounts for testing:
 
@@ -324,12 +303,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **Documentation**: Check this README and inline code comments
 - **Issues**: Create a GitHub issue for bugs and feature requests
 - **Discussions**: Use GitHub Discussions for questions and ideas
-- **Email**: Contact us at support@foodsaver.com (demo email)
+- **Email**: Contact us at support@foodsaver.com 
 
 ### Community
 - **Discord**: Join our community Discord server (coming soon)
-- **Twitter**: Follow @FoodSaverAI for updates (demo account)
-- **LinkedIn**: Connect with us on LinkedIn (demo profile)
+- **Twitter**: Follow @FoodSaverAI for updates 
+- **LinkedIn**: Connect with us on LinkedIn 
 - **Newsletter**: Subscribe to our monthly impact newsletter
 
 ---
